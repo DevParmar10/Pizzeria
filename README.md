@@ -1,2 +1,2 @@
 # Pizzeria
-This is a pizza website 
+This is a reponsive pizza website 
